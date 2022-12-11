@@ -1,0 +1,56 @@
+2022-12-11T10:50:38.243837500 0.089595s notice: In recursion: removing file 'C:\\Uni\\rethinkdb\\rethinkdb_data\\tmp'
+2022-12-11T10:50:38.245794200 0.090978s warn: Trying to delete non-existent file 'C:\\Uni\\rethinkdb\\rethinkdb_data\\tmp'
+2022-12-11T10:50:38.251299300 0.097018s notice: Initializing directory C:\\Uni\\rethinkdb\\rethinkdb_data
+2022-12-11T10:50:38.254351400 0.099600s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory 'C:\\Uni\\rethinkdb\\rethinkdb_data' did not already exist or is empty.)
+2022-12-11T10:50:38.254351401 0.099648s notice: Running rethinkdb 2.3.2-windows-beta-545-g85e842 (MSC 190024225)...
+2022-12-11T10:50:38.254351402 0.099734s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2022-12-11T10:50:38.254351403 0.100051s notice: Loading data from directory C:\\Uni\\rethinkdb\\rethinkdb_data
+2022-12-11T10:50:38.431934700 0.277797s info: Automatically using cache size of 100 MB
+2022-12-11T10:50:38.431934701 0.277803s warn: Cache size does not leave much memory for server and query overhead (available memory: 327 MB).
+2022-12-11T10:50:38.431934702 0.277804s warn: Cache size is very low and may impact performance.
+2022-12-11T10:50:38.434934200 0.280516s notice: Listening for intracluster connections on port 29015
+2022-12-11T10:50:38.440231300 0.285417s notice: Listening for client driver connections on port 28015
+2022-12-11T10:50:38.440231301 0.285478s notice: Listening for administrative HTTP connections on port 8080
+2022-12-11T10:50:38.440231302 0.285482s notice: Listening on cluster address: 127.0.0.1
+2022-12-11T10:50:38.440231303 0.285483s notice: Listening on driver address: 127.0.0.1
+2022-12-11T10:50:38.440231304 0.285485s notice: Listening on http address: 127.0.0.1
+2022-12-11T10:50:38.440231305 0.285486s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2022-12-11T10:50:38.440231306 0.285488s notice: Server ready, "DESKTOP_INN3LU7_bqz" 306cf04e-5761-4429-a239-416cfe2eed60
+2022-12-11T10:51:01.410994000 0.021661s notice: Running rethinkdb 2.3.2-windows-beta-545-g85e842 (MSC 190024225)...
+2022-12-11T10:51:01.410994001 0.022017s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2022-12-11T10:51:01.411994900 0.022389s notice: Loading data from directory C:\\Uni\\rethinkdb\\rethinkdb_data
+2022-12-11T10:51:01.420578500 0.030756s info: Automatically using cache size of 100 MB
+2022-12-11T10:51:01.420578501 0.030763s warn: Cache size does not leave much memory for server and query overhead (available memory: 400 MB).
+2022-12-11T10:51:01.420578502 0.030765s warn: Cache size is very low and may impact performance.
+2022-12-11T10:51:01.422585300 0.032794s notice: Listening for intracluster connections on port 29015
+2022-12-11T10:51:01.423585700 0.034056s notice: Listening for client driver connections on port 28015
+2022-12-11T10:51:01.423585701 0.034142s notice: Listening for administrative HTTP connections on port 8080
+2022-12-11T10:51:01.423585702 0.034145s notice: Listening on cluster address: 127.0.0.1
+2022-12-11T10:51:01.423585703 0.034148s notice: Listening on driver address: 127.0.0.1
+2022-12-11T10:51:01.423585704 0.034149s notice: Listening on http address: 127.0.0.1
+2022-12-11T10:51:01.423585705 0.034150s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2022-12-11T10:51:01.423585706 0.034152s notice: Server ready, "DESKTOP_INN3LU7_bqz" 306cf04e-5761-4429-a239-416cfe2eed60
+2022-12-11T10:51:03.332262400 1.942472s notice: Server got Control-C; shutting down...
+2022-12-11T10:51:03.332262401 1.942857s notice: Shutting down client connections...
+2022-12-11T10:51:03.332262402 1.943067s notice: All client connections closed.
+2022-12-11T10:51:03.332262403 1.943072s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2022-12-11T10:51:03.333276800 1.944250s notice: Storage engine shut down.
+2022-12-11T10:51:15.214959400 0.022679s notice: Running rethinkdb 2.3.2-windows-beta-545-g85e842 (MSC 190024225)...
+2022-12-11T10:51:15.215969000 0.023004s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2022-12-11T10:51:15.215969001 0.023258s notice: Loading data from directory C:\\Uni\\rethinkdb\\rethinkdb_data
+2022-12-11T10:51:15.225349200 0.032935s info: Automatically using cache size of 100 MB
+2022-12-11T10:51:15.225349201 0.032939s warn: Cache size does not leave much memory for server and query overhead (available memory: 418 MB).
+2022-12-11T10:51:15.225349202 0.032942s warn: Cache size is very low and may impact performance.
+2022-12-11T10:51:15.234382400 0.041496s notice: Listening for intracluster connections on port 29015
+2022-12-11T10:51:15.235949700 0.043043s notice: Listening for client driver connections on port 28015
+2022-12-11T10:51:15.235949701 0.043195s notice: Listening for administrative HTTP connections on port 8080
+2022-12-11T10:51:15.235949702 0.043198s notice: Listening on cluster address: 127.0.0.1
+2022-12-11T10:51:15.235949703 0.043199s notice: Listening on driver address: 127.0.0.1
+2022-12-11T10:51:15.235949704 0.043200s notice: Listening on http address: 127.0.0.1
+2022-12-11T10:51:15.235949705 0.043201s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2022-12-11T10:51:15.235949706 0.043203s notice: Server ready, "DESKTOP_INN3LU7_bqz" 306cf04e-5761-4429-a239-416cfe2eed60
+2022-12-11T10:51:21.250434300 6.057568s notice: Server got Control-C; shutting down...
+2022-12-11T10:51:21.250434301 6.057910s notice: Shutting down client connections...
+2022-12-11T10:51:21.250434302 6.058115s notice: All client connections closed.
+2022-12-11T10:51:21.250434303 6.058123s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2022-12-11T10:51:21.251396700 6.059078s notice: Storage engine shut down.
